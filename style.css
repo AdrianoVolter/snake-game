@@ -1,0 +1,43 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(104, 95, 109);
+    color: rgb(215, 230, 215);
+    font-style: italic;    
+    
+}
+h1{
+    font-size: 30px;
+    margin-top: 50px;
+}
+section{
+    background: rgb(231, 230, 226);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(63, 57, 57, 0.596);
+    padding-left: 15px;
+    padding-right: 28px;
+    padding-top: 10px;
+    border-style: initial;
+}
+header{
+    color: white;
+    text-align: center;
+}
+button{
+    color: rgb(237, 237, 243);
+    background-color: red;
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+  
+}
+
